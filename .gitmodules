@@ -1,0 +1,6 @@
+[submodule "delivery_vn"]
+	path = delivery_vn
+	url = https://github.com/linhhonblade/delivery_vn
+[submodule "delivery_ahamove"]
+	path = delivery_ahamove
+	url = https://github.com/linhhonblade/delivery_ahamove
